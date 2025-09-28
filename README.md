@@ -6,10 +6,15 @@ It also includes a Streamlit web application that allows interactive exploration
 
 
 📂 Project Structure
+
 ├── analysis.ipynb       # Jupyter Notebook with full analysis
+
 ├── streamlit_app.py     # Streamlit application
+
 ├── metadata.csv         # Dataset (ignored in .gitignore if large)
+
 ├── .gitignore           # Files to be ignored by Git
+
 └── README.md            # Project documentation
 
 🛠️ Tools & Libraries
